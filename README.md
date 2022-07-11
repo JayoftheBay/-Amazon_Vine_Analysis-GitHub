@@ -6,11 +6,11 @@ The purpose of this analysis is to see if paid reviewers rate products higher th
 ## Results 
 ![](reviews.PNG)
 
-*How many Vine reviews and non-Vine reviews were there?
+* How many Vine reviews and non-Vine reviews were there?
     * We have 79 Vine reviews and 30,266 non-Vine reviews.
-*How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
     * We have 37 5 star Vine reviews and 12,705 non-Vine 5 star reviews.
-*What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
     *We have 47% 5 star Vine reviews and 42% non-Vine 5 star reviews.
     
 ## Summary
